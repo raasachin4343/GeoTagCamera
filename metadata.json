@@ -1,0 +1,6 @@
+{
+  "name": "GeoTag Camera",
+  "description": "A clean, ad-free camera application that automatically embeds precise GPS coordinates (latitude, longitude, altitude, and timestamp) directly into your captured photo EXIF metadata.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
